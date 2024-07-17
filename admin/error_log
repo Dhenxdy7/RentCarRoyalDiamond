@@ -1,0 +1,3 @@
+[30-Jun-2024 12:50:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'binb1751_rental_mobil'@'localhost' to database 'binb1751_rental_mobil' in /home/binb1751/public_html/rcroyaldiamond.binsarjr.com/admin/includes/config.php on line 8
+[01-Jul-2024 04:07:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/binb1751/public_html/rcroyaldiamond.binsarjr.com/admin/sewaview.php on line 5
+[01-Jul-2024 04:07:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/binb1751/public_html/rcroyaldiamond.binsarjr.com/admin/sewaview.php on line 5
